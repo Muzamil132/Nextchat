@@ -30,7 +30,7 @@ export default function Home() {
 
         <div class="md:flex md:items-center">
           <button
-            class=" transition duration-500 transform hover:translate-y-1 hover:scale-103   shadow w-full bg-purple-500 hover:bg-purple-400 focus:shadow-outline focus:outline-none text-white font-bold py-4 px-4 rounded"
+            class="gradient  transition duration-500 transform hover:translate-y-1 hover:scale-103   shadow w-full hover:bg-purple-400 focus:shadow-outline focus:outline-none text-white font-bold py-4 px-4 rounded"
             type="button"
           >
             Sign Up
